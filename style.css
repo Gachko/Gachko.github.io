@@ -90,6 +90,10 @@ h2{
     background-color: #111;
 }
 
+.padd{
+    padding-top: 128px;
+}
+
 @media (min-width: 576px) {  }
 
 /* Средние устройства (md, 768px и выше) */
